@@ -16,7 +16,8 @@ I specialize in **Kotlin, Jetpack Compose, Firebase, and cloud integrations**, w
 ---
 
 ## 📱 Featured Projects
-- **[Speaking Roses Cyprus](https://play.google.com/store/apps/details?id=com.speakingroses.cy)** – Live e-commerce app with secure payment integration.  
+- **[Speaking Roses Cyprus](https://play.google.com/store/apps/details?id=com.speakingroses.cy)** – Live e-commerce app with secure payment integration.
+- **[Learn Sari](https://play.google.com/store/apps/details?id=biz.klipart.learnsari)** – Step-by-step guides to drape, tie, and style Indian saris effortlessly.  
 - **[GalleryApp](https://github.com/Rishabh-alt-hash/GalleryApp)** – Native media gallery with smooth 60fps scrolling.  
 - **[Post Office Finder](https://github.com/Rishabh-alt-hash/postoffice-finder)** – Utility app fetching post office details via REST APIs.  
 
